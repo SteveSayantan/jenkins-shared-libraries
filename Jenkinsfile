@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('first') {
             steps {
-                sh 'echo pipeline triggered successfully, now editing it'
+                sh 'echo major changes in pipeline'
             }
         }
     }
