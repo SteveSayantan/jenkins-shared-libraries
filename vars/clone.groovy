@@ -1,3 +1,3 @@
-def call(String url, String branch){
-  git url: "${url}", branch: "${branch}"
+def call(rem_url,rem_branch){
+  git url:rem_url, branch:rem_branch
 }
