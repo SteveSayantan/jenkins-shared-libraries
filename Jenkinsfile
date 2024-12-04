@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('first') {
             steps {
-                sh 'echo major changes in pipeline'
+                sh 'echo reverting the changes in pipeline'
             }
         }
     }
