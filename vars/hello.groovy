@@ -1,3 +1,3 @@
 def call(){
-  echo "Hello Dosto, starting a new test!!!"
+  echo "Hello Dosto, clean-up operation!!!"
 }
